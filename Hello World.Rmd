@@ -1,8 +1,9 @@
 ---
 title: "Hello World"
-output: word_document
+output: pdf_document
 date: "2024-06-20"
 ---
+
 
 ```{r hello}
 print("Hello-World")
